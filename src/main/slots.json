@@ -1,0 +1,640 @@
+[
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/02/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649703,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/03/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649714,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/04/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649725,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/05/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649736,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/06/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649747,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/09/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649758,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/10/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649769,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/11/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649780,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/12/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649791,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/13/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649802,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/16/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649813,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/17/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649824,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/18/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649835,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/19/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649846,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/20/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649857,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/23/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649868,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/24/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649879,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/25/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649890,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/26/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649901,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/27/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649912,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/30/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649923,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    },
+    {
+        "mission": "Hungary",
+        "center": "Hungary Visa Application Centre, Kazan",
+        "visacategory": "MED",
+        "date": "10/31/2023",
+        "isWeekend": false,
+        "counters": [
+            {
+                "allocationCategory": "CC and GU",
+                "categoryCode": "CCGU",
+                "groups": [
+                    {
+                        "visaGroupName": "Visa D",
+                        "timeSlots": [
+                            {
+                                "allocationId": 5649934,
+                                "timeSlot": "9:30-10:00",
+                                "slotType": "Normal",
+                                "totalSeats": 1,
+                                "remainingSeats": 1,
+                                "startTimetick": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "error": null
+    }
+]

@@ -1,0 +1,9 @@
+https://online.vfsglobal.com/PG-Component/Payment/
+PGRequest?
+RequestRefNo=1011792062
+&Email=tolik.baldin.79@mail.ru
+&Currency=RUB
+&Culture=ru-RU&
+Amount=2475.91
+&DigitalSignature=C8EYnVSp5NP64N4tEI05Jggb7EDZC_phKOodRpkwym9VPN54mLvD0YHR_g9qjb5coQgfzZhKYfr7vWMFOT2leg,,
+&RedirectURL=

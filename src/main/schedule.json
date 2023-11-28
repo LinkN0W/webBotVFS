@@ -1,0 +1,18 @@
+{
+    "missionCode": "hun",
+    "countryCode": "rus",
+    "centerCode": "Kazan",
+    "loginUser": "tolik.baldin.79@mail.ru",
+    "urn": "HUN24930643885",
+    "notificationType": "none",
+    "paymentdetails": {
+        "paymentmode": "Online",
+        "RequestRefNo": "",
+        "clientId": "",
+        "merchantId": "",
+        "amount": 0,
+        "currency": "RUB"
+    },
+    "allocationId": "5649725",
+    "CanVFSReachoutToApplicant": false
+}

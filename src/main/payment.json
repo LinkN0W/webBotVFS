@@ -1,0 +1,8 @@
+{
+  "IsAppointmentBooked": true,
+  "IsPaymentRequired": false,
+  "RequestRefNo": 0,
+  "URL": null,
+  "DigitalSignature": null,
+  "error": null
+}

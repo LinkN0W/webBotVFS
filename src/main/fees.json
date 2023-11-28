@@ -1,0 +1,10 @@
+
+https://lift-api.vfsglobal.com/appointment/fees
+{
+  "missionCode": "hun",
+  "countryCode": "rus",
+  "centerCode": "Kazan",
+  "loginUser": "tolik.baldin.79@mail.ru",
+  "urn": "HUN24974672351",
+  "languageCode": "ru-RU"
+}
